@@ -21,3 +21,7 @@ ScreenShots:
 
 ![](screenshots/5.png)
 
+![](screenshots/6.png)
+
+![](screenshots/7.png)
+
